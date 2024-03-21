@@ -2,8 +2,11 @@
 ```
 AS396982
 AS15169
-142.250.0.0/15 #常用的Google产品都在里面
-173.194.0.0/16 #googlevideo用于YouTube内
+常用的Google产品都在里面
+142.250.0.0/15 
+googlevideo用于YouTube内
+173.194.0.0/16 
+74.125.0.0/16
 ```
 ### telegram
 ```
