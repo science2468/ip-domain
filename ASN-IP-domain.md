@@ -18,6 +18,7 @@
 auth0.openai.com
 auth.openai.com
 chat.openai.com
+140.82.112.0/20
 ```
 ### Google
 ```
