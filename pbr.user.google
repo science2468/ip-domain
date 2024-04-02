@@ -13,7 +13,7 @@ TARGET_NFT_FILE="/var/pbr_tmp_AS${TARGET_ASN}.nft"
 #DB_SOURCE='api.hackertarget.com'
 DB_SOURCE='api.bgpview.io'
 [ -z "$nft" ] && nft="$(command -v nft)"
-_ret=1
+_ret=0
 
 if [ ! -s "$TARGET_DL_FILE" ]; then
         if [ "$DB_SOURCE" = "ipinfo.io" ]; then
