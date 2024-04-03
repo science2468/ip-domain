@@ -9,9 +9,9 @@ TARGET_TABLE='inet fw4'
 TARGET_ASN='15169'
 TARGET_DL_FILE="/var/pbr_tmp_AS${TARGET_ASN}"
 TARGET_NFT_FILE="/var/pbr_tmp_AS${TARGET_ASN}.nft"
-#DB_SOURCE='ipinfo.io'
+DB_SOURCE='ipinfo.io'
 #DB_SOURCE='api.hackertarget.com'
-DB_SOURCE='api.bgpview.io'
+#DB_SOURCE='api.bgpview.io'
 [ -z "$nft" ] && nft="$(command -v nft)"
 _ret=1
 
