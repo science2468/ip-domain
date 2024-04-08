@@ -1,3 +1,4 @@
+uclient-fetch --no-check-certificate -qO- "https://ipinfo.io/AS{15169" 2>/dev/null | grep -E "a href.*15169\/" | grep -v ":" | sed "s/^.*<a href=\"\/AS15169\///; s/\" >//"
 ### 备份
 ```
 91.108.56.0/22
