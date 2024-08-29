@@ -37,10 +37,23 @@ Gemini API
 ```
 ### chatgpt
 ```
-auth0.openai.com
+ab.chatgpt.com
+chatgpt.com
 auth.openai.com
-chat.openai.com
-api.openai.com
+auth0.openai.com
+challenges.cloudflare.com
+featureassets.org
+browser-intake-datadoghq.com
+prodregistryv2.org
+cdn.auth0.com
+cdn.jsdelivr.net
+cdn.openai.com
+cdn.oaistatic.com
+tcr9i.openai.com
+s.gravatar.com
+files.oaiusercontent.com
+i0.wp.com
+
 ```
 ### github.com
 ```
